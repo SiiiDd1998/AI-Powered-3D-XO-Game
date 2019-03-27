@@ -15,7 +15,7 @@ import javax.swing.*;
 
 /**
  *
- * @author Jayant
+ * @author Siddhesh
  */
 
 public class Game extends javax.swing.JFrame implements MouseListener,ActionListener {
